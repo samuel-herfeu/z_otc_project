@@ -1,0 +1,7 @@
+Finalizei um projeto prático de SAP S/4HANA com ABAP CDS, OData V4 e Fiori, focado em OTC (Order-to-Cash).
+
+Estruturei CDS Views por camadas, expus o serviço via OData V4, validei no Fiori e organizei tudo em formato de portfólio técnico.
+
+Foi um projeto importante para consolidar visão de arquitetura, troubleshooting e integração entre backend SAP e experiência de usuário.
+
+#SAP #S4HANA #ABAP #CDSViews #OData #Fiori #Portfolio
